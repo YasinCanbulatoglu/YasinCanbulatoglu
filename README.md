@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yasin canbulatoğlu</h1>
 <h3 align="center">a person living in turkey trying to improve himself in software and server issues</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scr4ppp3r&label=Profile%20views&color=0e75b6&style=flat" alt="YasinCanbulatoglu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YasinCanbulatoglu&label=Profile%20views&color=0e75b6&style=flat" alt="YasinCanbulatoglu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YasinCanbulatoglu" alt="YasinCanbulatoglu" /></a> </p>
 
