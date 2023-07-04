@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasincanbulatoglu&show_icons=true&theme=dark&locale=en" alt="yasincanbulatoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasincanbulatoglu&theme=dark" alt="yasincanbulatoglu" /></p>
+
+
+
+![snake gif](https://github.com/YasinCanbulatoglu/YasinCanbulatoglu/blob/output/github-contribution-grid-snake.gif)
