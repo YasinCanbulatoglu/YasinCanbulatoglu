@@ -20,20 +20,5 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinCanbulatoglu&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasinCanbulatoglu&show_icons=true&theme=dark&layout=compact&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCanbulatoglu&theme=dark" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/github-contribution-grid-snake.gif?v=1" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCanbulatoglu&theme=dark" alt="Yasin's GitHub Streak" />
 </p>
