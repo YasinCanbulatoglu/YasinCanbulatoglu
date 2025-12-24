@@ -20,15 +20,15 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinCanbulatoglu&show_icons=true&theme=dark&include_all_commits=true" alt="Yasin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinCanbulatoglu&show_icons=true&theme=dark&count_private=true" alt="Yasin Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasinCanbulatoglu&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasinCanbulatoglu&show_icons=true&theme=dark&layout=compact" alt="Yasin Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCanbulatoglu&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCanbulatoglu&theme=dark" alt="Yasin Streak" />
 </p>
 
 ---
