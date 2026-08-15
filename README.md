@@ -19,9 +19,38 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+**🌐 Web & Mobile Development**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,flutter,dart,nodejs,express,python,java,cpp,cs,php,mongodb,firebase,postgresql,docker,nginx,git,github,linux,ubuntu,windows,vscode,figma,ps,ai,pr,ae,xd,gimp,kdenlive,davinci,npm,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,flutter,dart&theme=dark" />
+  </a>
+</p>
+
+**💻 Programming Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,php&theme=dark" />
+  </a>
+</p>
+
+**🗄️ Backend, Database & Server**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,docker,nginx&theme=dark" />
+  </a>
+</p>
+
+**🛠️ Tools & OS**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vscode,npm,vercel&theme=dark" />
+  </a>
+</p>
+
+**🎨 Design & Video Editing**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,gimp,kdenlive,davinci&theme=dark" />
   </a>
 </p>
 
