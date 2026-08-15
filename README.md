@@ -31,10 +31,9 @@
 
 <p align="center">
   <a href="https://github.com/YasinCanbulatoglu">
-    <img src="https://github-readme-stats.vercel.app/api?username=YasinCanbulatoglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yasin's GitHub stats" />
+    <img src="https://streak-stats.demolab.com/?user=YasinCanbulatoglu&theme=tokyonight&hide_border=true&background=0D1117" alt="Yasin's GitHub stats" />
   </a>
   <a href="https://github.com/YasinCanbulatoglu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinCanbulatoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   </a>
 </p>
 
