@@ -66,13 +66,6 @@
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
@@ -86,6 +79,14 @@
 *   📞 **[Çağrı İletişim](https://github.com/YasinCanbulatoglu/cagri-iletisim-web):** A sleek, user-focused corporate website built with Vite and React.
 *   🛡️ **[FamilyGuard](https://github.com/YasinCanbulatoglu/family-guard):** A comprehensive and secure family management/tracking system.
 
+---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YasinCanbulatoglu/YasinCanbulatoglu/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 <br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YasinCanbulatoglu&color=blue" alt="Profile Views" />
