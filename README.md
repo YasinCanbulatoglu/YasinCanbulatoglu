@@ -45,13 +45,21 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vscode,npm,vercel&theme=dark" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 **🎨 Design & Video Editing**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,gimp,kdenlive,davinci&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd&theme=dark" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/GIMP-5C5C5C?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kdenlive-83b8ec?style=for-the-badge&logo=kdenlive&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-D12F2F?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
