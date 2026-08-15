@@ -29,37 +29,29 @@
 **💻 Programming Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,php,dotnet&theme=dark" />
   </a>
 </p>
 
 **🗄️ Backend, Database & Server**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,docker,nginx&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,docker,nginx,azure&theme=dark" />
   </a>
 </p>
 
-**🛠️ Tools & OS**
+**🛠️ Tools, OS & Socials**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vscode,npm,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,arch,vscode,npm,vercel,linkedin,gitea&theme=dark" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
-  <img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-**🎨 Design & Video Editing**
+**🎨 Design, Video & GameDev**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd,blender,godot&theme=dark" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/GIMP-5C5C5C?style=for-the-badge&logo=gimp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kdenlive-83b8ec?style=for-the-badge&logo=kdenlive&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-D12F2F?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
