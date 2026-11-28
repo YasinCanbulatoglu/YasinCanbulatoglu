@@ -71,13 +71,7 @@
 
 ### 📂 Featured Projects
 
-*   🪐 **[Gezegen Not Defteri](https://github.com/YasinCanbulatoglu/gezegen-not-defteri):** A highly modern note application designed with React and Tailwind CSS.
-*   🚀 **[Nebula Notes](https://github.com/YasinCanbulatoglu/nebula-notes):** A full-featured space/planet themed note project with comprehensive backend integration.
-*   📱 **[Not Defteri (Mobil)](https://github.com/YasinCanbulatoglu/not-defteri-mobil):** The mobile version of Nebula Notes, built with Flutter for Android.
-*   🌐 **[Portfolio](https://github.com/YasinCanbulatoglu/portfolio-web):** My personal Next.js website showcasing my projects and skills.
-*   📥 **[Medya İndirici](https://github.com/YasinCanbulatoglu/medya-indirici):** A specialized tool to download media from the internet using Next.js and Puppeteer.
-*   📞 **[Çağrı İletişim](https://github.com/YasinCanbulatoglu/cagri-iletisim-web):** A sleek, user-focused corporate website built with Vite and React.
-*   🛡️ **[FamilyGuard](https://github.com/YasinCanbulatoglu/family-guard):** A comprehensive and secure family management/tracking system.
+*   ⚙️ **[BİLKES Kesici Takım](https://github.com/YasinCanbulatoglu/bilkes-web):** Modern, multilingual corporate web application for an industrial cutting tool manufacturer — built with React, TypeScript, Vite, and Tailwind CSS v4.
 
 ---
 <p align="center">
